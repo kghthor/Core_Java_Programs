@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.Set;
 import java.util.Map.Entry;
 
-public class HashTableExample1 {
+public class HashTableExample1 { 
 
     public HashTableExample1() {
         System.out.println("HashTableExample1.HashTableExample1()");
