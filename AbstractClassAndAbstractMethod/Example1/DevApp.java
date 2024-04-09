@@ -1,6 +1,6 @@
 package AbstractClassAndAbstractMethod.Example1;
 
-public class DevApp extends ProjectApp {
+public class DevApp extends ProjectApp { 
 
     public DevApp() {
         System.out.println("DevApp.DevApp()");
