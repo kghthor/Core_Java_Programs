@@ -1,5 +1,5 @@
 package InheritanceProject1;
-
+ 
 public class Active {
     private int a = 10;
 
