@@ -1,6 +1,6 @@
 package FactoryDesignPatternExample;
 
-/** IMPLEMENTATION */
+/** IMPLEMENTATION */ 
 public class INOXCinema implements Movie {
     public INOXCinema() {
         System.out.println("INOXCinema.INOXCinema()");
