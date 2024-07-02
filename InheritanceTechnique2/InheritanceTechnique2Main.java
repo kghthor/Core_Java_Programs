@@ -11,7 +11,7 @@ public class InheritanceTechnique2Main {
         NewLogic newLogic = new NewLogic();
         newLogic.task1();
     }
-
+ 
 }
 
 /**
