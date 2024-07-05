@@ -4,7 +4,7 @@ public class NewLogic extends ExistedLogic {
 
     public NewLogic() {
         System.out.println("NewLogic.NewLogic()");
-    }
+    } 
 
     @Override
     public void task1() {
