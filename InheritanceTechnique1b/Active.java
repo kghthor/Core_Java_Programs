@@ -8,7 +8,7 @@ public class Active {
         System.out.println("Active.Active()-no args consturctor");
         this.a = 10;
         this.b = 20;
-    }
+    } 
 
     public Active(int a, int b, int c) {
         System.out.println("Active.Active()-3 args consturctor");
