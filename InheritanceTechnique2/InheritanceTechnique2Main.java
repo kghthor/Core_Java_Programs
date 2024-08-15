@@ -13,7 +13,7 @@ public class InheritanceTechnique2Main {
     }
  
 }
-
+ 
 /**
  * OUT PUT = 143
  */
