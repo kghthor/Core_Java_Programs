@@ -1,5 +1,5 @@
 package InheritanceTechnique1;
-
+ 
 public class InheritanceTechnique1Main {
     public InheritanceTechnique1Main() {
         System.out.println("InheritanceTechnique1Main.InheritanceTechnique1Main()");
