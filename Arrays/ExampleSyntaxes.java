@@ -7,7 +7,7 @@ public class ExampleSyntaxes {
     public ExampleSyntaxes() {
         System.out.println("ExampleSyntaxes.ExampleSyntaxes()");
     }
-
+      
     public static void main(String args[]) {
         System.out.println("ExampleSyntaxes.main()");
 
