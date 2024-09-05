@@ -5,7 +5,7 @@ public class CActive extends BeActive {
 
     public CActive() {
         System.out.println("CActive.CActive()");
-    }
+    } 
 
     public void task3() {
         System.out.println("Value of c is " + c);
