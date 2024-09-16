@@ -2,7 +2,7 @@ package CastingInJava;
 
 public class ImplecityCasting {
 
-    public ImplecityCasting() {
+    public ImplecityCasting() { 
         System.out.println("ImplecityCasting.ImplecityCasting()");
     }
 
