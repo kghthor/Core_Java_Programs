@@ -1,5 +1,5 @@
 package FactoryDesignPatternExample;
-
+ 
 /** IMPLEMENTATION */ 
 public class INOXCinema implements Movie {
     public INOXCinema() {
