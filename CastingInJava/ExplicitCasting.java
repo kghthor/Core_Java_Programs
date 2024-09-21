@@ -1,6 +1,6 @@
-package CastingInJava;
+Google.compackage CastingInJava;
 
-public class ExplicitCasting {
+public class ExplicitCasting { 
     public ExplicitCasting() {
         System.out.println("ExplicitCasting.ExplicitCasting()");
     }
