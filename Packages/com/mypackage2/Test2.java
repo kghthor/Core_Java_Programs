@@ -1,5 +1,5 @@
 package Packages.com.mypackage2;
-
+ 
 import Packages.com.mypackage.Test;
 
 public class Test2 {
