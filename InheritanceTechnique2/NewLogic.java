@@ -1,7 +1,7 @@
 package InheritanceTechnique2;
 
 public class NewLogic extends ExistedLogic {
-
+ 
     public NewLogic() {
         System.out.println("NewLogic.NewLogic()");
     } 
