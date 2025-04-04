@@ -14,7 +14,7 @@ public class OOPSTechnique4 {
         cExample.task2();
         cExample.task3();
         cExample.task4();
-
+ 
         ConstructorsExample constructorsExample = new ConstructorsExample(70);
         constructorsExample.task1();
         constructorsExample.task2();
